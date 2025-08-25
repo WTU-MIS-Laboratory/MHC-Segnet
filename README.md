@@ -17,7 +17,7 @@ Minimize VRAM: 24G
 
 1. Create a virtual environment: `conda create -n MHCSegnet python=3.8 -y` and `conda activate MHCSegnet`
 2. Install Pytorch ≥ 2.2, torchvision ≥ 0.17.0, torchaudio ≥ 2.2.0
-3. MONAI == 1.3.0, mamba_ssm == 1.2.0, causal_conv1d == 1.2.0.([[Mamba]](https://github.com/state-spaces/mamba))
+3. MONAI == 1.3.0, mamba_ssm == 1.2.0, causal_conv1d == 1.2.0. [[Mamba]](https://github.com/state-spaces/mamba)
 4. Download code: `git clone https://github.com/WTU-MIS-Laboratory/MHC-Segnet.git`
 
 
